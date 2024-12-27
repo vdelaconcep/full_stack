@@ -1,3 +1,27 @@
 ########
 Datos para GIT
 ########
+
+1. Ejectutar:
+
+    git init
+    
+    -- este comando se ejecuta una sola vez.
+
+2. Agregar los archivos y carpetas para que GIT realice el seguimiento
+
+    git add .      seguimiento de todos los elementos
+
+    git add index.html    seguimiento de un archivo a la vez
+
+3. Agregar la url del repositorio remoto, esa url la tenemos que traer desde el repo creado en GITHUB
+
+    git remote add origin https://...
+
+4. Empaquetamos todo el ptoyecto con 
+
+    git commit -m "mensaje"
+
+5. Enviamos los datos a GITHUB
+
+    git push origin master
