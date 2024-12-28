@@ -10,9 +10,9 @@ Datos para GIT
 
 2. Agregar los archivos y carpetas para que GIT realice el seguimiento
 
-    git add .      seguimiento de todos los elementos
+    git add .      =>seguimiento de todos los elementos
 
-    git add index.html    seguimiento de un archivo a la vez
+    git add index.html    =>seguimiento de un archivo a la vez
 
 3. Agregar la url del repositorio remoto, esa url la tenemos que traer desde el repo creado en GITHUB
 
